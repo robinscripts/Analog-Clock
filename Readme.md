@@ -18,7 +18,7 @@ Check out the live demo [here](https://robinscripts.github.io/Analog-Clock/).
    ```bash
    git clone https://github.com/robinscripts/Analog-Clock.git
 
-2. Clone the repository:
+2. Navigate to the project directory:
    ```bash
    cd basic-analog-clock
 
